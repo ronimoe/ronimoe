@@ -21,7 +21,7 @@ the pieces that are useful on their own.
 > 🔒 **Most of my work lives in private repos**: product and domain code I can't publish.
 > What's below is what it does. Happy to walk through any of it on a call.
 
-## Start Here
+## ⚡ Shipped & Public
 
 <table>
 <tr>
