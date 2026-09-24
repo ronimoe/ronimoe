@@ -41,11 +41,48 @@ the pieces that are useful on their own.
 
 Built around real workflows: the paper forms, the field reps, the front desk.
 
-- 🦴 **Clinic management** 🔒: replaces a clinic's paper cards with a mobile-first app, including intake, a freehand body map, treatment log and owner reporting
-- 🧪 **Patient-readable lab results** 🔒: HL7 lab panels, rendered so a patient can actually understand them
-- 💊 **Pharma field-sales CRM** 🔒: GPS-verified clinic visits for reps, a live pipeline for managers
-- 🛎️ **AI concierge kiosk** 🔒: a multilingual, real-time avatar concierge across multiple outlets
-- 🌿 **AI wellness coach** 🔒: one adaptive action a day, and a coach that *can't* hallucinate your numbers (the engine computes, the LLM only phrases)
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>🦴</h3>
+<sub><code>HEALTHCARE</code></sub><br />
+<b>Clinic management</b> 🔒<br />
+<sub>Two paper cards → one mobile-first app. Intake, freehand body map, treatment log, owner reports.</sub>
+</td>
+<td width="33%" valign="top">
+<h3>🧪</h3>
+<sub><code>HEALTHCARE</code></sub><br />
+<b>Readable lab results</b> 🔒<br />
+<sub>Raw HL7 lab panels, rendered so a patient actually understands them.</sub>
+</td>
+<td width="33%" valign="top">
+<h3>💊</h3>
+<sub><code>PHARMA</code></sub><br />
+<b>Field-sales CRM</b> 🔒<br />
+<sub>GPS-verified clinic visits for reps. A live pipeline for their managers.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<h3>🛎️</h3>
+<sub><code>HOSPITALITY</code></sub><br />
+<b>AI concierge kiosk</b> 🔒<br />
+<sub>A real-time avatar concierge that speaks the guest's language, across multiple outlets.</sub>
+</td>
+<td width="33%" valign="top">
+<h3>🌿</h3>
+<sub><code>WELLNESS</code></sub><br />
+<b>AI wellness coach</b> 🔒<br />
+<sub>One adaptive action a day. The engine computes every number, so the coach can't hallucinate one.</sub>
+</td>
+<td width="33%" valign="top">
+<h3>📋</h3>
+<sub><code>YOUR INDUSTRY?</code></sub><br />
+<b>Your paper form next</b><br />
+<sub>If it runs on clipboards and spreadsheets, it can run on this. <a href="https://www.linkedin.com/in/rmulyana">Say hi →</a></sub>
+</td>
+</tr>
+</table>
 
 ### 🧪 The Lab
 
