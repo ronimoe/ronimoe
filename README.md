@@ -222,12 +222,22 @@ $ git log --oneline career
 
 ## Activity
 
-<!-- Needs "Include private contributions on my profile" turned ON in GitHub settings -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ronimoe&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Most+of+this+happens+in+private+repos.;The+snake+eats+it+anyway.;Green+squares+%3D+agents+shipping+while+I+sleep." alt="Most of this happens in private repos. The snake eats it anyway." />
 </p>
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/ronimoe" alt="Contribution chart" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ronimoe&theme=github-dark-blue&hide_border=true&background=0D1117" />
+    <img src="https://streak-stats.demolab.com?user=ronimoe&hide_border=true" alt="GitHub streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronimoe/ronimoe/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ronimoe/ronimoe/output/snake.svg" alt="Snake eating the contribution graph" />
+  </picture>
 </p>
 
 ---
