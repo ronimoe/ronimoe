@@ -2,7 +2,7 @@
 
 **Two decades turning tight budgets into working code. Now I make AI earn its keep.**
 
-📍 **Bandung, Indonesia** | 🧠 **CTO & AI practitioner** | 🤖 **Runs a small fleet of coding agents**
+📍 **Bandung, Indonesia** | 🧠 **Technology Leader | AI Practitioner** | 🤖 **Runs a small fleet of coding agents**
 
 CTO at **Trillium Technologies**, leading **Phibase**: a Kubernetes-based
 SaaS handling millions of API calls a month for manufacturing, retail and F&B leaders across
