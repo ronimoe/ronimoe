@@ -183,7 +183,9 @@ Side experiments that got serious.
 </tr>
 </table>
 
-## How I Build with AI
+<p align="center">
+  <img src="assets/how-i-build.svg" alt="How I Build with AI: 6 shortcuts removed, 6 practices added" width="100%" />
+</p>
 
 ```diff
 @@ the usual way  →  my way @@
