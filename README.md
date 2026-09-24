@@ -1,8 +1,6 @@
-# Hi, I'm Roni 👋
-
-**Two decades turning tight budgets into working code. Now I make AI earn its keep.**
-
-📍 **Bandung, Indonesia** | 🧠 **Technology Leader | AI Practitioner** | 🤖 **Runs a small fleet of coding agents**
+<p align="center">
+  <img src="assets/banner.svg" alt="Roni Moe. Two decades turning tight budgets into working code. Now I make AI earn its keep." width="100%" />
+</p>
 
 CTO at **Trillium Technologies**, leading **Phibase**: a Kubernetes-based
 SaaS handling millions of API calls a month for manufacturing, retail and F&B leaders across
@@ -18,8 +16,8 @@ the pieces that are useful on their own.
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-> 🔒 **Most of my work lives in private repos**: product and domain code I can't publish.
-> What's below is what it does. Happy to walk through any of it on a call.
+> [!TIP]
+> **🔒 Most of my work lives in private repos.** It's product and domain code I can't publish, so below you'll find what it *does*. Happy to walk through any of it on a call.
 
 ## ⚡ Shipped & Public
 
