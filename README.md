@@ -32,10 +32,38 @@ the pieces that are useful on their own.
 
 ### 🤖 Agentic Engineering
 
-- 🛠️ **[AI Software Studio](https://github.com/ronimoe/ai-software-studio)**: Tauri + Rust desktop app to delegate, watch and verify coding agents
-- 🚦 **[Conductor](https://github.com/ronimoe/github-agent)**: merge queue, conflict router and flaky-test quarantine for agent fleets
-- 🧩 **Agent frameworks** 🔒: role-aware agents that delegate to each other, from early LangGraph experiments to my own runtime
-- 🧪 **Eval harnesses** 🔒: labeled datasets + scorers that gate every prompt and model swap
+Tooling for running AI agents like a team, not a toy.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🛠️</h3>
+<sub><code>OPEN SOURCE · RUST</code></sub><br />
+<a href="https://github.com/ronimoe/ai-software-studio"><b>AI Software Studio</b></a><br />
+<sub>Tauri + Rust desktop app to delegate, watch and verify coding agents. <code>brew install --cask ronimoe/tap/ai-software-studio</code></sub>
+</td>
+<td width="50%" valign="top">
+<h3>🚦</h3>
+<sub><code>OPEN SOURCE · PYTHON</code></sub><br />
+<a href="https://github.com/ronimoe/github-agent"><b>Conductor</b></a><br />
+<sub>Merge queue, conflict router and flaky-test quarantine for agent fleets. Zero dependencies.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧩</h3>
+<sub><code>FRAMEWORKS</code></sub><br />
+<b>Agent frameworks</b> 🔒<br />
+<sub>Role-aware agents that delegate to each other, from early LangGraph experiments to my own runtime.</sub>
+</td>
+<td width="50%" valign="top">
+<h3>📏</h3>
+<sub><code>QUALITY</code></sub><br />
+<b>Eval harnesses</b> 🔒<br />
+<sub>Labeled datasets and scorers that gate every prompt and model swap. No score, no merge.</sub>
+</td>
+</tr>
+</table>
 
 ### 🏥 Domain Systems
 
