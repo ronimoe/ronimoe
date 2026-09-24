@@ -56,7 +56,7 @@ the pieces that are useful on their own.
   <img src="assets/what-i-build.svg" alt="What I Build: 4 agentic tools, 5 domain systems, 6 lab projects" width="100%" />
 </p>
 
-### 🤖 Agentic Engineering
+<img src="assets/sub-agentic.svg" alt="Agentic Engineering: open source tools, frameworks, evals" width="100%" />
 
 Tooling for running AI agents like a team, not a toy.
 
@@ -91,7 +91,7 @@ Tooling for running AI agents like a team, not a toy.
 </tr>
 </table>
 
-### 🏥 Domain Systems
+<img src="assets/sub-domain.svg" alt="Domain Systems: healthcare, pharma, hospitality, wellness" width="100%" />
 
 Built around real workflows: the paper forms, the field reps, the front desk.
 
@@ -138,7 +138,7 @@ Built around real workflows: the paper forms, the field reps, the front desk.
 </tr>
 </table>
 
-### 🧪 The Lab
+<img src="assets/sub-lab.svg" alt="The Lab: creator, markets, e-commerce, personal AI" width="100%" />
 
 Side experiments that got serious.
 
