@@ -161,11 +161,23 @@ Side experiments that got serious.
 
 ## How I Build with AI
 
-- ✅ **Red → green → refactor.** Agents write the failing test first too.
-- 📏 **Evals gate every prompt.** No LLM change merges without a scored run.
-- 🔀 **Fleets, not a single chatbot.** Parallel agents, isolated worktrees, one orchestrator verifying their work.
-- 🧯 **Humans hold the money switch.** Autonomy is earned per gate, never assumed.
-- 🔐 **Config lives in env, models are swappable.** Nothing hardcoded.
+```diff
+@@ the usual way  →  my way @@
+- "the agent says it works"
++ a failing test first. Red → green → refactor, agents included
+
+- ship the new prompt and hope
++ evals gate every prompt and model swap. No score, no merge
+
+- one chatbot doing everything
++ a fleet of agents in isolated worktrees, one orchestrator checking their work
+
+- let the AI near the money on day one
++ humans hold the money switch. Autonomy is earned gate by gate
+
+- model names hardcoded all over the code
++ config lives in env. Swap a model without touching a line
+```
 
 ## Before AI
 
