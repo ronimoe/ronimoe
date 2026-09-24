@@ -85,5 +85,5 @@ same rule: *complex tech is only worth it when it pays for itself.*
 <p align="center">
   <a href="https://www.linkedin.com/in/rmulyana"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <br />
-  <sub>Real AI, real business, real result. Bukan buat gaya-gayaan. 🇮🇩</sub>
+  <sub>Real AI, real business, real results. Built to earn, not to show off. ⚡</sub>
 </p>
