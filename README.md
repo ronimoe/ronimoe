@@ -187,20 +187,23 @@ Side experiments that got serious.
 
 ```diff
 @@ the usual way  →  my way @@
-- "the agent says it works"
-+ a failing test first. Red → green → refactor, agents included
+- tweak the prompt, eyeball a few outputs, ship
++ every prompt is hashed. Change one without re-running its eval and the build goes red
 
-- ship the new prompt and hope
-+ evals gate every prompt and model swap. No score, no merge
+- "the eval passed"
++ caught an agent scoring 100% by saying nothing at all. Now every check demands real output first
 
-- one chatbot doing everything
-+ a fleet of agents in isolated worktrees, one orchestrator checking their work
+- ask the model nicely not to touch the price
++ the price is pinned in code. When the prompt already says it, the next fix is a guard, not a sentence
 
-- let the AI near the money on day one
-+ humans hold the money switch. Autonomy is earned gate by gate
+- the smartest model for everything
++ a mid model on high effort writes the code. The top model only makes the calls a spec can't
 
-- model names hardcoded all over the code
-+ config lives in env. Swap a model without touching a line
+- let the AI run on its own from day one
++ every human approve/reject becomes labeled data. Autonomy is earned one eval score at a time
+
+- output breaks, blame the architecture
++ swap the model first. One replied in Chinese on 6% of calls: measured, then fired
 ```
 
 ## Before AI
