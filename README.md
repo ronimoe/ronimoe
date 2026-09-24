@@ -23,10 +23,34 @@ the pieces that are useful on their own.
 
 ## Start Here
 
-- 🎙️ **[MyWhisper](https://github.com/ronimoe/my-whisper)**: on-device voice dictation for macOS. ~100 languages, *mixed Indonesian + English* that actually works, and zero audio leaving your Mac.
-- 🛠️ **[AI Software Studio](https://github.com/ronimoe/ai-software-studio)**: a local command center for Claude Code & Codex. Agents work in isolated worktrees; you review evidence, not vibes. `brew install --cask ronimoe/tap/ai-software-studio`
-- 🚦 **[Conductor](https://github.com/ronimoe/github-agent)**: lets dozens of unattended AI agents land on one mainline with linear history, a true CHANGELOG and semver. Zero dependencies.
-- 🎬 **yt-avatar-studio** 🔒 *(open-sourcing soon)*: a YouTube channel's whole content team as 14 Claude Code agents. Research → script → cloned voice → avatar → thumbnails, with one human "approve" before a single credit is spent.
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+<h1>🎙️</h1>
+<a href="https://github.com/ronimoe/my-whisper"><b>MyWhisper</b></a><br />
+<sub>Talk, don't type. Indonesian + English in one sentence, 100% on-device.</sub><br /><br />
+<a href="https://github.com/ronimoe/my-whisper"><img src="https://img.shields.io/badge/View_repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repo" /></a>
+</td>
+<td width="25%" align="center" valign="top">
+<h1>🛠️</h1>
+<a href="https://github.com/ronimoe/ai-software-studio"><b>AI Software Studio</b></a><br />
+<sub>Mission control for Claude Code & Codex. Evidence, not vibes.</sub><br /><br />
+<a href="https://github.com/ronimoe/ai-software-studio"><img src="https://img.shields.io/badge/View_repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repo" /></a>
+</td>
+<td width="25%" align="center" valign="top">
+<h1>🚦</h1>
+<a href="https://github.com/ronimoe/github-agent"><b>Conductor</b></a><br />
+<sub>Dozens of unattended AI agents. One clean mainline.</sub><br /><br />
+<a href="https://github.com/ronimoe/github-agent"><img src="https://img.shields.io/badge/View_repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repo" /></a>
+</td>
+<td width="25%" align="center" valign="top">
+<h1>🎬</h1>
+<b>yt-avatar-studio</b><br />
+<sub>A YouTube team of 14 agents. One human approves.</sub><br /><br />
+<img src="https://img.shields.io/badge/Coming_soon-6E7681?style=for-the-badge&logo=youtube&logoColor=white" alt="Coming soon" />
+</td>
+</tr>
+</table>
 
 ## What I Build
 
@@ -40,7 +64,7 @@ Tooling for running AI agents like a team, not a toy.
 <h3>🛠️</h3>
 <sub><code>OPEN SOURCE · RUST</code></sub><br />
 <a href="https://github.com/ronimoe/ai-software-studio"><b>AI Software Studio</b></a><br />
-<sub>Tauri + Rust desktop app to delegate, watch and verify coding agents. <code>brew install --cask ronimoe/tap/ai-software-studio</code></sub>
+<sub>Tauri + Rust desktop app to delegate, watch and verify coding agents.</sub>
 </td>
 <td width="50%" valign="top">
 <h3>🚦</h3>
