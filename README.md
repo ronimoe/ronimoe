@@ -44,36 +44,14 @@ the pieces that are useful on their own.
 
 Tooling for running AI agents like a team, not a toy.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🛠️</h3>
-<sub><code>OPEN SOURCE · RUST</code></sub><br />
-<a href="https://github.com/ronimoe/ai-software-studio"><b>AI Software Studio</b></a><br />
-<sub>Tauri + Rust desktop app to delegate, watch and verify coding agents.</sub>
-</td>
-<td width="50%" valign="top">
-<h3>🚦</h3>
-<sub><code>OPEN SOURCE · PYTHON</code></sub><br />
-<a href="https://github.com/ronimoe/github-agent"><b>Conductor</b></a><br />
-<sub>Merge queue, conflict router and flaky-test quarantine for agent fleets. Zero dependencies.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🧩</h3>
-<sub><code>FRAMEWORKS</code></sub><br />
-<b>Agent frameworks</b> 🔒<br />
-<sub>Role-aware agents that delegate to each other, from early LangGraph experiments to my own runtime.</sub>
-</td>
-<td width="50%" valign="top">
-<h3>📏</h3>
-<sub><code>QUALITY</code></sub><br />
-<b>Eval harnesses</b> 🔒<br />
-<sub>Labeled datasets and scorers that gate every prompt and model swap. No score, no merge.</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ronimoe/ai-software-studio"><img src="assets/ag-studio.svg" alt="AI Software Studio: delegate, watch and verify coding agents. Open source." width="49%" /></a>
+  <a href="https://github.com/ronimoe/github-agent"><img src="assets/ag-conductor.svg" alt="Conductor: merge queue and conflict router for agent fleets. Open source." width="49%" /></a>
+</p>
+<p align="center">
+  <img src="assets/ag-frameworks.svg" alt="Agent frameworks: role-aware agents that delegate. Private build." width="49%" />
+  <img src="assets/ag-evals.svg" alt="Eval harnesses: labeled datasets and scorers gate every prompt. Private build." width="49%" />
+</p>
 
 <img src="assets/sub-domain.svg" alt="Domain Systems: healthcare, pharma, hospitality, wellness" width="100%" />
 
@@ -96,48 +74,18 @@ Built around real workflows: the paper forms, the field reps, the front desk.
 
 Side experiments that got serious.
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3>🎬</h3>
-<sub><code>CREATOR</code></sub><br />
-<b>yt-avatar-studio</b> 🔒<br />
-<sub>A YouTube studio run by agents, with a learning loop that traces each retention drop to the scene that caused it.</sub>
-</td>
-<td width="33%" valign="top">
-<h3>🏠</h3>
-<sub><code>LIFE OS</code></sub><br />
-<b>Agent OS</b> 🔒<br />
-<sub>A one-person life OS run by a swarm of agents over Telegram. Fully auditable; nothing runs on its own until I say so.</sub>
-</td>
-<td width="33%" valign="top">
-<h3>🐋</h3>
-<sub><code>MARKETS</code></sub><br />
-<b>Whalescope</b> 🔒<br />
-<sub>Whale-flow terminal for the Indonesia Stock Exchange. Follows the smart money broker by broker, with a cost-aware backtest.</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<h3>📦</h3>
-<sub><code>E-COMMERCE</code></sub><br />
-<b>Scout</b> 🔒<br />
-<sub>Bring a product, get an Amazon FBA go/no-go: competitor benchmarks, FBA economics and a PDF report. Fully unattended.</sub>
-</td>
-<td width="33%" valign="top">
-<h3>🧠</h3>
-<sub><code>PERSONAL AI</code></sub><br />
-<b>AI companion</b> 🔒<br />
-<sub>My own skills, agents and memory, carried across every project I touch.</sub>
-</td>
-<td width="33%" valign="top">
-<h3>📬</h3>
-<sub><code>PRODUCTIVITY</code></sub><br />
-<b>Inbox triage agent</b> 🔒<br />
-<sub>Reads the inbox so I don't have to: summaries, action items, priority scores.</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/lab-yt.svg" alt="yt-avatar-studio: agent-run YouTube studio. Open-sourcing soon." width="49%" />
+  <img src="assets/lab-agentos.svg" alt="Agent OS: one-person life OS run by agents over Telegram. Private build." width="49%" />
+</p>
+<p align="center">
+  <img src="assets/lab-whalescope.svg" alt="Whalescope: whale-flow analytics terminal for the Indonesia Stock Exchange. Private build." width="49%" />
+  <img src="assets/lab-scout.svg" alt="Scout: Amazon FBA go/no-go engine. Private build." width="49%" />
+</p>
+<p align="center">
+  <img src="assets/lab-companion.svg" alt="AI companion: personal skills, agents and memory. Private build." width="49%" />
+  <img src="assets/lab-inbox.svg" alt="Inbox triage agent: summaries, action items, priority scores. Private build." width="49%" />
+</p>
 
 <p align="center">
   <img src="assets/how-i-build.svg" alt="How I Build with AI: 6 shortcuts removed, 6 practices added" width="100%" />
