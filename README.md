@@ -23,34 +23,14 @@ the pieces that are useful on their own.
   <img src="assets/shipped.svg" alt="Shipped &amp; Public: 3 open-source projects, 1 coming soon" width="100%" />
 </p>
 
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-<h1>🎙️</h1>
-<a href="https://github.com/ronimoe/my-whisper"><b>MyWhisper</b></a><br />
-<sub>Talk, don't type. Indonesian + English in one sentence, 100% on-device.</sub><br /><br />
-<a href="https://github.com/ronimoe/my-whisper"><img src="https://img.shields.io/badge/View_repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repo" /></a>
-</td>
-<td width="25%" align="center" valign="top">
-<h1>🛠️</h1>
-<a href="https://github.com/ronimoe/ai-software-studio"><b>AI Software Studio</b></a><br />
-<sub>Mission control for Claude Code & Codex. Evidence, not vibes.</sub><br /><br />
-<a href="https://github.com/ronimoe/ai-software-studio"><img src="https://img.shields.io/badge/View_repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repo" /></a>
-</td>
-<td width="25%" align="center" valign="top">
-<h1>🚦</h1>
-<a href="https://github.com/ronimoe/github-agent"><b>Conductor</b></a><br />
-<sub>Dozens of unattended AI agents. One clean mainline.</sub><br /><br />
-<a href="https://github.com/ronimoe/github-agent"><img src="https://img.shields.io/badge/View_repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repo" /></a>
-</td>
-<td width="25%" align="center" valign="top">
-<h1>🎬</h1>
-<b>yt-avatar-studio</b><br />
-<sub>A YouTube team of 14 agents. One human approves.</sub><br /><br />
-<img src="https://img.shields.io/badge/Coming_soon-6E7681?style=for-the-badge&logo=youtube&logoColor=white" alt="Coming soon" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ronimoe/my-whisper"><img src="assets/card-mywhisper.svg" alt="MyWhisper: talk, don't type. On-device dictation for macOS. Public, MIT." width="49%" /></a>
+  <a href="https://github.com/ronimoe/ai-software-studio"><img src="assets/card-studio.svg" alt="AI Software Studio: mission control for coding agents. Public, MIT." width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ronimoe/github-agent"><img src="assets/card-conductor.svg" alt="Conductor: dozens of AI agents, one clean mainline. Public, MIT." width="49%" /></a>
+  <img src="assets/card-yt.svg" alt="yt-avatar-studio: a YouTube team of 14 agents. Coming soon." width="49%" />
+</p>
 
 <p align="center">
   <img src="assets/what-i-build.svg" alt="What I Build: 4 agentic tools, 5 domain systems, 6 lab projects" width="100%" />
