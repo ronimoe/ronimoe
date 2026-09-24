@@ -208,7 +208,9 @@ Side experiments that got serious.
 + swap the model first. One replied in Chinese on 6% of calls: measured, then fired
 ```
 
-## Before AI
+<p align="center">
+  <img src="assets/before-ai.svg" alt="Before AI: 24 years, 6 roles, 2 companies founded" width="100%" />
+</p>
 
 ```console
 $ git log --oneline career
@@ -222,7 +224,9 @@ $ git log --oneline career
 
 > Twenty-plus years, one rule: *complex tech is only worth it when it pays for itself.*
 
-## Activity
+<p align="center">
+  <img src="assets/activity.svg" alt="Activity: 10k+ contributions in the last 12 months, snake refreshed daily" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Most+of+this+happens+in+private+repos.;The+snake+eats+it+anyway.;Green+squares+%3D+agents+shipping+while+I+sleep." alt="Most of this happens in private repos. The snake eats it anyway." />
