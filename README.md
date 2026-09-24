@@ -66,9 +66,17 @@ Built around real workflows: the paper forms, the field reps, the front desk.
 
 ## Before AI
 
-📡 Telecom rollouts across Java, Sumatra & Kalimantan → 🌐 founded a web agency → 📱 R&D director
-at a mobile-marketing startup → 🔥 co-founded a digital studio → 🧠 CTO. Twenty-plus years of the
-same rule: *complex tech is only worth it when it pays for itself.*
+```console
+$ git log --oneline --reverse-chronological career
+2020..now   feat: CTO. A Kubernetes SaaS serving millions of API calls a month
+2017..2020  feat: tech lead on ERP, IoT pipelines & AI platforms for enterprises
+2015..2017  feat: co-founded a digital studio (IoT, full-stack, inbound)
+2013..2014  feat: R&D director at a mobile-marketing startup (+45% acquisition)
+2010..2014  feat: founded a web agency. SEO, content, 2-4x traffic for clients
+2002..2010  init: telecom rollouts across Java, Sumatra & Kalimantan
+```
+
+> Twenty-plus years, one rule: *complex tech is only worth it when it pays for itself.*
 
 ## Activity
 
