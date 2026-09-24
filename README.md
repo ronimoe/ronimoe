@@ -125,6 +125,13 @@ Side experiments that got serious.
   <img src="assets/before-ai.svg" alt="Before AI: 24 years, 6 roles, 2 companies founded" width="100%" />
 </p>
 
+<p align="center">
+  <img src="assets/career-log.svg" alt="Career as a git log: telecom rollouts 2002 to 2010, founded a web agency 2010 to 2014, R&amp;D director 2013 to 2014, co-founded a digital studio 2015 to 2017, tech lead 2017 to 2020, CTO 2020 to now." width="100%" />
+</p>
+
+<details>
+<summary><sub>Plain-text version</sub></summary>
+
 ```console
 $ git log --oneline career
 2020..now   feat: CTO. A Kubernetes SaaS serving millions of API calls a month
@@ -134,6 +141,8 @@ $ git log --oneline career
 2010..2014  feat: founded a web agency. SEO, content, 2-4x traffic for clients
 2002..2010  init: telecom rollouts across Java, Sumatra & Kalimantan
 ```
+
+</details>
 
 > Twenty-plus years, one rule: *complex tech is only worth it when it pays for itself.*
 
