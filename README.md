@@ -50,7 +50,9 @@ the pieces that are useful on their own.
 </tr>
 </table>
 
-## What I Build
+<p align="center">
+  <img src="assets/what-i-build.svg" alt="What I Build: 4 agentic tools, 5 domain systems, 6 lab projects" width="100%" />
+</p>
 
 ### 🤖 Agentic Engineering
 
