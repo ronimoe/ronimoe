@@ -91,6 +91,13 @@ Side experiments that got serious.
   <img src="assets/how-i-build.svg" alt="How I Build with AI: 6 shortcuts removed, 6 practices added" width="100%" />
 </p>
 
+<p align="center">
+  <img src="assets/how-diff.svg" alt="How I build with AI, as a diff: six common shortcuts removed, six practices added." width="100%" />
+</p>
+
+<details>
+<summary><sub>Plain-text version</sub></summary>
+
 ```diff
 @@ the usual way  →  my way @@
 - tweak the prompt, eyeball a few outputs, ship
@@ -111,6 +118,8 @@ Side experiments that got serious.
 - output breaks, blame the architecture
 + swap the model first. One replied in Chinese on 6% of calls: measured, then fired
 ```
+
+</details>
 
 <p align="center">
   <img src="assets/before-ai.svg" alt="Before AI: 24 years, 6 roles, 2 companies founded" width="100%" />
