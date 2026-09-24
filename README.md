@@ -86,12 +86,50 @@ Built around real workflows: the paper forms, the field reps, the front desk.
 
 ### 🧪 The Lab
 
-- 🎬 **yt-avatar-studio** 🔒: agent-run YouTube studio with a learning loop that ties retention drops back to individual scenes
-- 🏠 **Agent OS** 🔒: a one-person life OS run by a swarm of agents over Telegram. Everything is auditable; nothing runs autonomously until I say so.
-- 🐋 **Whalescope** 🔒: whale-flow analytics terminal for the Indonesia Stock Exchange, with broker-level smart-money tracking and a cost-aware backtest
-- 📦 **Scout** 🔒: give it a product and it returns an Amazon FBA go/no-go, including competitor benchmarks, FBA economics and a PDF report, fully unattended
-- 🧠 **Personal AI companion** 🔒: my own skills, agents and memory, shared across every project
-- 📬 **Inbox triage agent** 🔒: summaries, action items, priority scores
+Side experiments that got serious.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>🎬</h3>
+<sub><code>CREATOR</code></sub><br />
+<b>yt-avatar-studio</b> 🔒<br />
+<sub>A YouTube studio run by agents, with a learning loop that traces each retention drop to the scene that caused it.</sub>
+</td>
+<td width="33%" valign="top">
+<h3>🏠</h3>
+<sub><code>LIFE OS</code></sub><br />
+<b>Agent OS</b> 🔒<br />
+<sub>A one-person life OS run by a swarm of agents over Telegram. Fully auditable; nothing runs on its own until I say so.</sub>
+</td>
+<td width="33%" valign="top">
+<h3>🐋</h3>
+<sub><code>MARKETS</code></sub><br />
+<b>Whalescope</b> 🔒<br />
+<sub>Whale-flow terminal for the Indonesia Stock Exchange. Follows the smart money broker by broker, with a cost-aware backtest.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<h3>📦</h3>
+<sub><code>E-COMMERCE</code></sub><br />
+<b>Scout</b> 🔒<br />
+<sub>Bring a product, get an Amazon FBA go/no-go: competitor benchmarks, FBA economics and a PDF report. Fully unattended.</sub>
+</td>
+<td width="33%" valign="top">
+<h3>🧠</h3>
+<sub><code>PERSONAL AI</code></sub><br />
+<b>AI companion</b> 🔒<br />
+<sub>My own skills, agents and memory, carried across every project I touch.</sub>
+</td>
+<td width="33%" valign="top">
+<h3>📬</h3>
+<sub><code>PRODUCTIVITY</code></sub><br />
+<b>Inbox triage agent</b> 🔒<br />
+<sub>Reads the inbox so I don't have to: summaries, action items, priority scores.</sub>
+</td>
+</tr>
+</table>
 
 ## How I Build with AI
 
