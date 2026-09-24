@@ -7,11 +7,18 @@ SaaS handling millions of API calls a month for manufacturing, retail and F&B le
 Indonesia and Singapore. Off the clock, I build AI systems in a private lab and open-source
 the pieces that are useful on their own.
 
-<sub><b>LANGUAGES</b></sub><br />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" /> <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-
-<sub><b>AGENTS &amp; INFRA</b></sub><br />
-<img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openaigym&logoColor=white" alt="Codex" /> <img src="https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" /> <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+<p>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openaigym&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+</p>
 
 > [!TIP]
 > **🔒 Most of my work lives in private repos.** It's product and domain code I can't publish, so below you'll find what it *does*. Happy to walk through any of it on a call.
@@ -72,48 +79,18 @@ Tooling for running AI agents like a team, not a toy.
 
 Built around real workflows: the paper forms, the field reps, the front desk.
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3>🦴</h3>
-<sub><code>HEALTHCARE</code></sub><br />
-<b>Clinic management</b> 🔒<br />
-<sub>Two paper cards → one mobile-first app. Intake, freehand body map, treatment log, owner reports.</sub>
-</td>
-<td width="33%" valign="top">
-<h3>🧪</h3>
-<sub><code>HEALTHCARE</code></sub><br />
-<b>Readable lab results</b> 🔒<br />
-<sub>Raw HL7 lab panels, rendered so a patient actually understands them.</sub>
-</td>
-<td width="33%" valign="top">
-<h3>💊</h3>
-<sub><code>PHARMA</code></sub><br />
-<b>Field-sales CRM</b> 🔒<br />
-<sub>GPS-verified clinic visits for reps. A live pipeline for their managers.</sub>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<h3>🛎️</h3>
-<sub><code>HOSPITALITY</code></sub><br />
-<b>AI concierge kiosk</b> 🔒<br />
-<sub>A real-time avatar concierge that speaks the guest's language, across multiple outlets.</sub>
-</td>
-<td width="33%" valign="top">
-<h3>🌿</h3>
-<sub><code>WELLNESS</code></sub><br />
-<b>AI wellness coach</b> 🔒<br />
-<sub>One adaptive action a day. The engine computes every number, so the coach can't hallucinate one.</sub>
-</td>
-<td width="33%" valign="top">
-<h3>📋</h3>
-<sub><code>YOUR INDUSTRY?</code></sub><br />
-<b>Your paper form next</b><br />
-<sub>If it runs on clipboards and spreadsheets, it can run on this. <a href="https://www.linkedin.com/in/rmulyana">Say hi →</a></sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/dom-clinic.svg" alt="Clinic management: paper cards to a mobile-first app. Private build." width="49%" />
+  <img src="assets/dom-lab.svg" alt="Readable lab results: HL7 panels a patient understands. Private build." width="49%" />
+</p>
+<p align="center">
+  <img src="assets/dom-pharma.svg" alt="Pharma field-sales CRM with GPS-verified visits. Private build." width="49%" />
+  <img src="assets/dom-concierge.svg" alt="AI concierge kiosk: multilingual real-time avatar. Private build." width="49%" />
+</p>
+<p align="center">
+  <img src="assets/dom-wellness.svg" alt="AI wellness coach: one adaptive action a day, numbers computed not generated. Private build." width="49%" />
+  <a href="https://www.linkedin.com/in/rmulyana"><img src="assets/dom-cta.svg" alt="Your paper form next: if it runs on clipboards and spreadsheets, it can run on this. Say hi on LinkedIn." width="49%" /></a>
+</p>
 
 <img src="assets/sub-lab.svg" alt="The Lab: creator, markets, e-commerce, personal AI" width="100%" />
 
