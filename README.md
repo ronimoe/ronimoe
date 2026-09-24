@@ -19,7 +19,9 @@ the pieces that are useful on their own.
 > [!TIP]
 > **🔒 Most of my work lives in private repos.** It's product and domain code I can't publish, so below you'll find what it *does*. Happy to walk through any of it on a call.
 
-## ⚡ Shipped & Public
+<p align="center">
+  <img src="assets/shipped.svg" alt="Shipped &amp; Public: 3 open-source projects, 1 coming soon" width="100%" />
+</p>
 
 <table>
 <tr>
