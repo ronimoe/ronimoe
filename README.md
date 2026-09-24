@@ -67,7 +67,7 @@ Built around real workflows: the paper forms, the field reps, the front desk.
 ## Before AI
 
 ```console
-$ git log --oneline --reverse-chronological career
+$ git log --oneline career
 2020..now   feat: CTO. A Kubernetes SaaS serving millions of API calls a month
 2017..2020  feat: tech lead on ERP, IoT pipelines & AI platforms for enterprises
 2015..2017  feat: co-founded a digital studio (IoT, full-stack, inbound)
