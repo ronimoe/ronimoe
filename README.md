@@ -248,10 +248,10 @@ $ git log --oneline career
   </picture>
 </p>
 
----
+<p align="center">
+  <img src="assets/footer.svg" alt="Real AI. Real business. Real results. Built to earn, not to show off." width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rmulyana"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <br />
-  <sub>Real AI, real business, real results. Built to earn, not to show off. ⚡</sub>
+  <a href="https://www.linkedin.com/in/rmulyana"><img src="https://img.shields.io/badge/Say_hi_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Say hi on LinkedIn" /></a>
 </p>
