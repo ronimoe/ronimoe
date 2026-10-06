@@ -35,6 +35,9 @@ the pieces that are useful on their own.
   <a href="https://github.com/ronimoe/github-agent"><img src="assets/card-conductor.svg" alt="Conductor: dozens of AI agents, one clean mainline. Public, MIT." width="49%" /></a>
   <img src="assets/card-yt.svg" alt="yt-avatar-studio: a YouTube team of 14 agents. Coming soon." width="49%" />
 </p>
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.23162918"><img src="assets/card-aria.svg" alt="ARIA: Agent Reference Intelligence Architecture. A seven-layer reference model for agentic AI. Technical report, open access." width="98.5%" /></a>
+</p>
 
 <p align="center">
   <img src="assets/what-i-build.svg" alt="What I Build: 4 agentic tools, 5 domain systems, 6 lab projects" width="100%" />
